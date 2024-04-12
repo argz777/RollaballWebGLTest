@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "769244627687",
+    "firebase_url": "https://fir-support-testproj-default-rtdb.firebaseio.com",
+    "project_id": "fir-support-testproj",
+    "storage_bucket": "fir-support-testproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769244627687:ios:32c80a26373e027578d842",
+        "android_client_info": {
+          "package_name": "com.example.rollaball"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmQp00G5cLBBZVdY1LvRxwhVifN2KZHtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769244627687-o7gmr2il1vqg7vbnc4173a2srt19jjia.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
